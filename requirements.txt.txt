@@ -1,0 +1,12 @@
+pip install opencv-python
+pip install flask
+pip install waitress
+pip install face_recognition
+pip install tesseract-ocr
+pip install opencv-python
+pip install opencv-contrib-python
+pip install opencv-python --upgrade
+
+
+
+
